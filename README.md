@@ -2,7 +2,7 @@
 ### Full Stack Developer
 
 
-<p>🎓 I Tecnicatura Univ. en Desarrollo de Aplicaciones Informaticas</p>
+<p>🎓I Tecnicatura Univ. en Desarrollo de Aplicaciones Informaticas</p>
 <p>📍 I Soy de Argentina, Buenos Aires. Actualmente vivo en Tandil.</p>
 
 ### Tecnologias
