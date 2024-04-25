@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
 </div>
 
-### Contacto
+### Contactame
 <div id="badges">
   <a href="https://www.linkedin.com/in/ana-olivia-todesco-324958288/"> 
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
