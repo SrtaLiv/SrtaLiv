@@ -1,11 +1,14 @@
-## Hola, soy Oli 👋
-### Full Stack Developer
+## 𝙷𝚒, 𝙸'𝚖 Oli 👋
 
+### ⭐ 𝙰𝚋𝚘𝚞𝚝 𝚖𝚎 ⭐
+<ul>
+  <li><b>Name:</b> Ana Olivia Todesco </li>
+  <li><b>Age:</b> 19 </li>
+  <li><b>Studies:</b> Tecnicatura Univ. en Desarrollo de Aplicaciones Informaticas</li>
+  <li><b>Hobbys:</b> Gym, Voleyball, Gaming </li>
+</ul>
 
-<p>🎓I Tecnicatura Univ. en Desarrollo de Aplicaciones Informaticas</p>
-<p>📍 I Soy de Argentina, Buenos Aires. Actualmente vivo en Tandil.</p>
-
-### Tecnologias
+### 𝙺𝚗𝚘𝚠𝚕𝚎𝚍𝚐𝚎
 <div id="badges">
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt"HTML">
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt"CSS">
@@ -16,7 +19,7 @@
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
 </div>
 
-### Contactame
+### ☎️ 𝙲𝚘𝚗𝚝𝚊𝚌𝚝 𝚖𝚎 ☎️
 <div id="badges">
   <a href="https://www.linkedin.com/in/ana-olivia-todesco-324958288/"> 
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
