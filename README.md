@@ -30,8 +30,7 @@
   <a href="https://www.linkedin.com/in/ana-olivia-todesco-324958288/"> 
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  
-  <a hhref="https://twitter.com/olii_todesco">
+  <a href="https://twitter.com/olii_todesco">
      <img src="https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
   <a/>
     <a href="https://www.instagram.com/oliviatodesco/">
