@@ -23,7 +23,7 @@
 </div>
 
 ### Portfolio
-<a href="https://portfolio-v1-rynz.vercel.app/">
+<a href="https://portfolio-v1-rynz.vercel.app/">Demo</a>
 
 ### ☎️ 𝙲𝚘𝚗𝚝𝚊𝚌𝚝 𝚖𝚎 ☎️
 <div id="badges">
