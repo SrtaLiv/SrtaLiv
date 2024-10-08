@@ -22,9 +22,6 @@
 <img src="https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
 </div>
 
-### Portfolio
-<a href="https://portfolio-v1-rynz.vercel.app/">Demo</a>
-
 ### ☎️ 𝙲𝚘𝚗𝚝𝚊𝚌𝚝 𝚖𝚎 ☎️
 <div id="badges">
   <a href="https://www.linkedin.com/in/ana-olivia-todesco-324958288/"> 
