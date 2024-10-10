@@ -21,7 +21,6 @@
 </div>
 
 ### 📫 Contacto
-No dudes en ponerte en contacto conmigo a través de Linkedin o por correo electrónico.
-¡Conectémonos y creemos cosas increíbles juntos! 🚀
+No dudes en ponerte en contacto conmigo a través de <a href="https://www.linkedin.com/in/anaoliviatodesco/">Linkedin</a> o por <a href="mailto:anaoliviatodesco@gmail.com">correo electrónico</a>.
 
 <img src="https://komarev.com/ghpvc/?username=srtaliv&style=flat-square&color=blue" alt=""/>
