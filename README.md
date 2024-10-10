@@ -24,6 +24,4 @@
 No dudes en ponerte en contacto conmigo a través de Linkedin o por correo electrónico.
 ¡Conectémonos y creemos cosas increíbles juntos! 🚀
 
-### 📹 Vídeos en mi canal de Youtube
-
 <img src="https://komarev.com/ghpvc/?username=srtaliv&style=flat-square&color=blue" alt=""/>
