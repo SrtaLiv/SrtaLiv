@@ -1,14 +1,12 @@
-## 𝙷𝚒, 𝙸'𝚖 Oli 👋
+## 𝙷ola, soy Olivia 👋
 
-### ⭐ 𝙰𝚋𝚘𝚞𝚝 𝚖𝚎 ⭐
+
+### ⭐ Sobre Mi
 <ul>
-  <li><b>Name:</b> Ana Olivia Todesco </li>
-  <li><b>Age:</b> 19 </li>
-  <li><b>Studies:</b> Tecnicatura Univ. en Desarrollo de Aplicaciones Informaticas</li>
-  <li><b>Hobbys:</b> Gym, Voleyball, Gaming </li>
+ Hola, soy Ana Olivia Todesco, desarrolladora de software y estudiante de la Tecnicatura Universitaria en Desarrollo de Aplicaciones Informáticas. Me apasiona crear soluciones web eficientes y escalables.
 </ul>
 
-### 𝙺𝚗𝚘𝚠𝚕𝚎𝚍𝚐𝚎
+### 🚀 Skills
 <div id="badges">
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt"HTML">
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt"CSS">
@@ -22,22 +20,9 @@
 <img src="https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
 </div>
 
-### ☎️ 𝙲𝚘𝚗𝚝𝚊𝚌𝚝 𝚖𝚎 ☎️
-<div id="badges">
-  <a href="https://www.linkedin.com/in/ana-olivia-todesco-324958288/"> 
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/olii_todesco">
-     <img src="https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
-  <a/>
-    <a href="https://www.instagram.com/oliviatodesco/">
-      <img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-    </a> 
-</div>
+### 📫 Contacto
+No dudes en ponerte en contacto conmigo a través de Linkedin o por correo electrónico.
+¡Conectémonos y creemos cosas increíbles juntos! 🚀
 
 
-<div id="header" align="center">
-  <img src="https://64.media.tumblr.com/c70e8fcdf61a132a873f99db163896a2/tumblr_o48ggtdpJA1sfmahro1_400.gifv" width="200"/>
-</div>
-
-<img src="https://komarev.com/ghpvc/?username=condorcoders&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=srtaliv&style=flat-square&color=blue" alt=""/>
