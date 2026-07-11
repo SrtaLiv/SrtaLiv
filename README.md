@@ -4,7 +4,7 @@
 
 # Olivia Todesco
 
-### Founder & Full Stack Developer @ Nebula Solutions
+### Co-Founder & Full Stack Developer @ Nebula Solutions
 
 **Building software people actually use.**
 Laravel · React · Inertia.js · SaaS · AI
