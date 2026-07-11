@@ -79,20 +79,18 @@ From MVPs to enterprise platforms, I build complete digital products combining e
 
 <br/>
 
-<!-- ===== STATS ===== -->
+<!-- ===== STATS =====
 
 ## 📈 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SrtaLiv&show_icons=true&hide_border=true&count_private=true&theme=transparent" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrtaLiv&layout=compact&hide_border=true&theme=transparent" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SrtaLiv&show_icons=true&hide_border=true&count_private=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrtaLiv&layout=compact&hide_border=true" height="170"/>
 
 </div>
 
-<br/>
-
+ -->
 <!-- ===== CONNECT ===== -->
 
 ## 🤝 Connect with me
