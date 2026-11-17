@@ -13,7 +13,7 @@ Laravel · React · Inertia.js · SaaS · AI
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://oliviatodesco.netlify.app/)
 [![Nebula](https://img.shields.io/badge/Nebula%20Solutions-111827?style=for-the-badge&logo=googlecloud&logoColor=white)](https://nebulasolutions.com.ar)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/oliviatodesco)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anaoliviatodesco)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/oliviatodesco)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@oliviatodesco)
 
